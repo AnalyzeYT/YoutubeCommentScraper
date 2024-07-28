@@ -1,0 +1,11 @@
+# Install the Google API client library to access YouTube Data API
+google-api-python-client==2.64.0
+
+# Install google-auth-httplib2 for handling authenticated requests
+google-auth-httplib2==0.1.0
+
+# Install google-auth-oauthlib for OAuth 2.0 authorization
+google-auth-oauthlib==1.0.0
+
+# Install python-dotenv to load environment variables from a .env file
+python-dotenv==1.0.0
